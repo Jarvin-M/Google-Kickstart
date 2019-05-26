@@ -1,5 +1,5 @@
 # Kickstart 2019 Round C
-##  Wiggle Walk Solution [Python]
+##  Wiggle Walk Solution [Python] -> [Solution](wigglewalk.py)
 
 ### Problem
 Banny has just bought a new programmable robot. Eager to test his coding skills, he has placed the robot in a grid of squares with **R** rows (numbered 1 to **R** from north to south) and **C** columns (numbered 1 to **C** from west to east). The square in row r and column c is denoted (r, c).

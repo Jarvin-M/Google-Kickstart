@@ -1,5 +1,5 @@
 # Kickstart 2019 Round A
-## Training (Python)
+## Training [Python] -> [Solution](training.py)
 
 ### Problem
 
